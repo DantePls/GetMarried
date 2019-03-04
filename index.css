@@ -154,6 +154,7 @@ pre,table,fieldset,hr,
   color: #d2ba87;
   padding: 2rem;
   background: #606060;
+  width: 100%;
 }
 
 .program-box h1{
@@ -191,6 +192,7 @@ pre,table,fieldset,hr,
 .gifts{
   padding: 2rem;
   text-align: center;
+  width: 100%;
 }
 
 .gifts-headline{
